@@ -21,15 +21,3 @@ void print_array(const int *array, size_t size)
     }
     printf("\n");
 }
-
-/**
- * swap - func to swap integers
- * @xp: arg 1
- * @yp: arg 2
- */
-void swap(int *xp, int *yp)
-{
-	int temp = *xp;
-	*xp = *yp;
-	*yp = temp;
-}

@@ -1,6 +1,18 @@
 #include "sort.h"
 
 /**
+ * swap - func to swap integers
+ * @xp: arg1
+ * @yp: arg2
+ */
+void swap(int *xp, int *yp)
+{
+	int temp = *xp;
+	*xp = *yp;
+	*yp = temp;
+}
+
+/**
  * bubble_sort - func that sort as array of integers ascending
  * @array: the array of integers
  * @size: length of the array

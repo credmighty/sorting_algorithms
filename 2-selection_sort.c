@@ -1,4 +1,15 @@
 #include "sort.h"
+/**
+ * swap - func to swap integers
+ * @xp: arg 1
+ * @yp: arg 2
+ */
+void swap(int *xp, int *yp)
+{
+	int temp = *xp;
+	*xp = *yp;
+	*yp = temp;
+}
 
 /**
  * selection_sort - sorting type by moving the lowest to leftmost
