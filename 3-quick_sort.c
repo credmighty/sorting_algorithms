@@ -1,6 +1,18 @@
 #include "sort.h"
 
 /**
+ * swap - function to interchange elements
+ * @xp: arg1
+ * @yp: arg2
+ */
+void swap(int *xp, int *yp)
+{
+	int temp = *xp;
+	*xp = *yp;
+	*yp = temp;
+}
+
+/**
  * quick_sort - sort an array ascending order of
  *				integers using quicksort algorithm
  * @array: array of integers
