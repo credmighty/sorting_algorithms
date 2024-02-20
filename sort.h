@@ -6,16 +6,6 @@
 #include <stdbool.h>
 #include <stdlib.h>
 
-void print_array(const int *array, size_t size);
-/*void print_list(const listint_t *list);*/
-void bubble_sort(int *array, size_t size);
-void swap(int *xp, int *yp);
-/*void insertion_sort_list(listint_t **list);*/
-void selection_sort(int *array, size_t size);
-void quick_sort(int *array, size_t size);
-void lomuto_sort(int *array, size_t size, int lo, int hi);
-int lomuto_partition(int *array, size_t size, int left, int right);
-
 /**
  * struct listint_s - Doubly linked list node
  *
@@ -29,5 +19,22 @@ typedef struct listint_s
 	struct listint_s *prev;
 	struct listint_s *next;
 } listint_t;
+
+
+/*Printing Helper*/
+void print_array(const int *array, size_t size);
+void print_list(const listint_t *list);
+
+/*swapping function prototype*/
+void swap(int *xp, int *yp);
+void swap_nodes(listint_t **h, listint_t **n1, listint_t *n2);
+
+/*regular function prototypes*/
+void bubble_sort(int *array, size_t size);
+void insertion_sort_list(listint_t **list);
+void selection_sort(int *array, size_t size);
+void quick_sort(int *array, size_t size);
+void lomuto_sort(int *array, size_t size, int lo, int hi);
+int lomuto_partition(int *array, size_t size, int left, int right);
 
 #endif
