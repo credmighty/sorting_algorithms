@@ -28,11 +28,8 @@ void swap_nodes(listint_t **h, listint_t **n1, listint_t *n2)
  * integers in ascending order
  * @list: A pointer to the head of the doubly linked list
  *
+ * Description: Time Complexity: O(n^2)
  */
-
-/*
-Time Complexity: O(n^2)
-*/
 void insertion_sort_list(listint_t **list)
 {
 	listint_t *iter, *insert, *tmp;
