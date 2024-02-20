@@ -1,7 +1,6 @@
 #include "sort.h"
 
 void max_heapify(int *array, size_t size, size_t base, size_t root);
-void heap_sort(int *array, size_t size);
 
 /**
  * swap - Swap two integers in an array.
