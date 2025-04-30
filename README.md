@@ -1103,7 +1103,9 @@ alex@/tmp/sort$
 
 ### 12. Dealer
 [](https://youtu.be/_HJlGWXzlLA)
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_HJlGWXzlLA" title="You&#39;re Second Best" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 Write a function that sorts a deck of cards.
 
 - Prototype: `void sort_deck(deck_node_t **deck);`
