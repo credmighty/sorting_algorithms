@@ -127,7 +127,7 @@ Tasks
 mandatory
 
 Score: 100.00% (Checks completed: 100.00%)
-[![Watch the video]](https://youtu.be/lyZQPjUT5B4)
+[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/lyZQPjUT5B4)
 
 Write a function that sorts an array of integers in ascending order using the [Bubble sort](https://en.wikipedia.org/wiki/Bubble_sort "Bubble sort") algorithm
 
