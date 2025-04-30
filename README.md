@@ -19,6 +19,7 @@ Background Context
 This project is meant to be done by groups of two students. Each group of two should pair program for at least the mandatory part.
 
 Resources
+----------
 Read or watch:
 
 - [Sorting algorithm](https://en.wikipedia.org/wiki/Sorting_algorithm#Related_algorithms)
@@ -34,15 +35,7 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 
 
 
-Resources
----------
 
-**Read or watch**:
-
--   [Sorting algorithm](https://alx-intranet.hbtn.io/rltoken/-j5MKLBlzZAC2RfJ5DTBIg "Sorting algorithm")
--   [Big O notation](https://alx-intranet.hbtn.io/rltoken/WRvrE2BaNVQFssHiUATTrw "Big O notation")
--   [Sorting algorithms animations](https://alx-intranet.hbtn.io/rltoken/ol0P7NbYVb5R31iOv4Q40A "Sorting algorithms animations")
--   [15 sorting algorithms in 6 minutes](https://alx-intranet.hbtn.io/rltoken/_I0aEvhfJ66Xyob6dd9Utw "15 sorting algorithms in 6 minutes") (***WARNING**: The following video can trigger seizure/epilepsy. It is not required for the project, as it is only a funny visualization of different sorting algorithms*)
 
 
 ### Data Structure and Functions
@@ -1110,6 +1103,7 @@ alex@/tmp/sort$
 
 ### 12. Dealer
 [](https://youtu.be/_HJlGWXzlLA)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_HJlGWXzlLA" title="You&#39;re Second Best" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 Write a function that sorts a deck of cards.
 
 - Prototype: `void sort_deck(deck_node_t **deck);`
