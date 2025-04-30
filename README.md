@@ -116,7 +116,7 @@ typedef struct listint_s
 } listint_t;
 ```
 Tests
-Here is a quick tip to help you test your sorting algorithms with big sets of random integers: Random.org <https://www.random.org/integer-sets/>
+Here is a quick tip to help you test your sorting algorithms with big sets of random integers: [Random.org](https://www.random.org/integer-sets/)
 
 
 Tasks
@@ -127,7 +127,7 @@ Tasks
 mandatory
 
 Score: 100.00% (Checks completed: 100.00%)
-[](https://youtu.be/lyZQPjUT5B4)
+[![Watch the video]](https://youtu.be/lyZQPjUT5B4)
 
 Write a function that sorts an array of integers in ascending order using the [Bubble sort](https://en.wikipedia.org/wiki/Bubble_sort "Bubble sort") algorithm
 
