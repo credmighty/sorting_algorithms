@@ -127,7 +127,7 @@ Tasks
 mandatory
 
 Score: 100.00% (Checks completed: 100.00%)
-[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/lyZQPjUT5B4)
+![Watch the video](https://youtu.be/lyZQPjUT5B4)
 
 Write a function that sorts an array of integers in ascending order using the [Bubble sort](https://en.wikipedia.org/wiki/Bubble_sort "Bubble sort") algorithm
 
@@ -207,7 +207,7 @@ mandatory
 
 Score: 100.00% (Checks completed: 100.00%)
 
-![](https://youtu.be/ROalU379l3U)
+![Watch video](https://youtu.be/ROalU379l3U)
 
 Write a function that sorts a doubly linked list of integers in ascending order using the [Insertion sort](https://en.wikipedia.org/wiki/Insertion_sort "Insertion sort") algorithm
 
@@ -323,7 +323,8 @@ mandatory
 
 Score: 100.00% (Checks completed: 100.00%)
 
-![](https://youtu.be/Ns4TPTC8whw)
+![Watch video](https://youtu.be/Ns4TPTC8whw)
+
 Write a function that sorts an array of integers in ascending order using the [Selection sort](https://en.wikipedia.org/wiki/Selection_sort "Selection sort") algorithm
 
 -   Prototype: `void selection_sort(int *array, size_t size);`
@@ -388,7 +389,8 @@ alex@/tmp/sort$
 mandatory
 
 Score: 100.00% (Checks completed: 100.00%)
-[](https://youtu.be/ywWBy6J5gz8)
+
+![Watch video](https://youtu.be/ywWBy6J5gz8)
 
 Write a function that sorts an array of integers in ascending order using the [Quick sort](https://en.wikipedia.org/wiki/Quicksort "Quick sort") algorithm
 
@@ -1102,9 +1104,8 @@ alex@/tmp/sort$
 - File: `107-quick_sort_hoare.c, 107-O`
 
 ### 12. Dealer
-[](https://youtu.be/_HJlGWXzlLA)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_HJlGWXzlLA" title="You&#39;re Second Best" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+![Watch video](https://youtu.be/_HJlGWXzlLA)
 
 Write a function that sorts a deck of cards.
 
